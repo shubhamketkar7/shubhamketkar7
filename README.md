@@ -40,13 +40,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/shubhamketkar7/shubhamketkar7/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/shubhamketkar7/count.svg?"  />
-</div>
+<img src="https://camo.githubusercontent.com/7819d8e379a295d78a9ad30b47fcde7d9c7f69a3c83758bed87b315b5aa4ae6b/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f666453394a65734e736f6e6e736e7458326b2f3230302e77656270" width="150" data-canonical-src="https://media3.giphy.com/media/fdS9JesNsonnsntX2k/200.webp" style="max-width: 100%;">
 
 ###
 
