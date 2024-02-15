@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.giphy.com/l2Sq9JVIklU8OwCjK.webp" style="width: 700px; height: auto;">
+  <img src="https://i.giphy.com/l2Sq9JVIklU8OwCjK.webp" style="width: 600px; height: auto;">
 </div>
 
 <br>
@@ -89,7 +89,8 @@
 
 <br>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYml1ZmMzMzlleW4zZGt2dXdwN2p5eXk2bWwxNWl6MTEycHpkZHZscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZsYb0PfZ2ybnggE/giphy.gif">
-
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYml1ZmMzMzlleW4zZGt2dXdwN2p5eXk2bWwxNWl6MTEycHpkZHZscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZsYb0PfZ2ybnggE/giphy.gif" style="width: 600px; height: auto;">
+<div>
 <br>
 ###
