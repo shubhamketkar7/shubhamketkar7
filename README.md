@@ -70,6 +70,12 @@
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation">
   
 ###
+<br>
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYml1ZmMzMzlleW4zZGt2dXdwN2p5eXk2bWwxNWl6MTEycHpkZHZscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZsYb0PfZ2ybnggE/giphy.gif" style="width: 600px; height: auto;">
+<div>
+
 
 ###
 
@@ -86,11 +92,5 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYml1ZmMzMzlleW4zZGt2dXdwN2p5eXk2bWwxNWl6MTEycHpkZHZscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZsYb0PfZ2ybnggE/giphy.gif" style="width: 600px; height: auto;">
-<div>
 <br>
 
