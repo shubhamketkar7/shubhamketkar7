@@ -72,12 +72,6 @@
   
 ###
 
-<br>
-
-<div align="center">
-  <img src="https://dribbble.com/shots/15685874-background-gif/attachments/7483044?mode=media"  />
-</div>
-
 ###
 
 <br>
