@@ -4,9 +4,13 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=shubhamketkar7.shubhamketkar7"/>
 </div>
 
+
+
+
 ###
 
-[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamketkar7)](https://github.com/anuraghazra/github-readme-stats)
+[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamketkar7&show_icons=true&theme=shadow-red)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shubhamketkar7&theme=shadow-red)](https://git.io/streak-stats)
 
 
 ###
