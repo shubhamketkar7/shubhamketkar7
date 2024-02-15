@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shubhamketkar7.shubhamketkar7" style="width: 40px; height: auto;">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shubhamketkar7.shubhamketkar7" style="width: 100px; height: auto;">
 </div>
 
 
