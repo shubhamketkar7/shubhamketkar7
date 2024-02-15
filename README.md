@@ -9,8 +9,8 @@
 
 ###
 
-[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamketkar7&show_icons=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shubhamketkar7&theme=shadow-red)](https://git.io/streak-stats)
+[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamketkar7&show_icons=true&theme=highconstrast)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shubhamketkar7&theme=highconstrast)](https://git.io/streak-stats)
 
 
 ###
