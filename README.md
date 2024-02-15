@@ -50,7 +50,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://wallpaperbat.com/img/894832-how-christian-bales-american-psycho-performance-was-influenced-by-tom-cruise.jpg"  />
+  <img height="500" src="https://images.hdqwalls.com/wallpapers/bthumb/american-psycho-26.jpg"  />
 </div>
 
 ###
