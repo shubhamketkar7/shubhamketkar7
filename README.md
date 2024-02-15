@@ -75,7 +75,7 @@
 <br>
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/userupload/12913875/file/original-5220c321a52b40e456c5b760384a01c0.jpg?resize=1200x1200"  />
+  <img src="https://dribbble.com/shots/15685874-background-gif/attachments/7483044?mode=media"  />
 </div>
 
 ###
