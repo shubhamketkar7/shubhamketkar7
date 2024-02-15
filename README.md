@@ -1,7 +1,9 @@
 <h1 align="center">👋<br>Software developer and tech enthusiast.<br><br>Let's connect!<br></h1>
 
+<br>
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shubhamketkar7.shubhamketkar7"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shubhamketkar7.shubhamketkar7" style="width: 40px; height: auto;">
 </div>
 
 
