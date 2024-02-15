@@ -1,4 +1,6 @@
-<h2 align="left">Hello there 👋<br>Shubham here, Software developer and tech enthusiast.<br><br>Let's connect!.</h2>
+<h2 align="center">Hello there 👋<br>Shubham here, Software developer and tech enthusiast.<br><br>Let's connect!.</h2>
+
+
 
 ###
 
