@@ -1,4 +1,4 @@
-<h3 align="center">Hello there 👋<br>Shubham here, Software developer and tech enthusiast.<br><br>Let's connect!.<br></h3>
+<h5 align="center">Hello there👋<br>Shubham here, Software developer and tech enthusiast.<br><br>Let's connect!.<br></h5>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=shubhamketkar7.shubhamketkar7" />
