@@ -53,17 +53,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+<br>
+
 ###
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation">
   
 ###
 
+<br>
+
 <div align="center">
   <img height="500" src="https://wallpapercave.com/wp/wp12278797.jpg"  />
 </div>
 
 ###
+
+<br>
 
 <div align="left">
   <a href="https://www.instagram.com/shubhamketkar7/">
