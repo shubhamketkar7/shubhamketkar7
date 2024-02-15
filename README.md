@@ -1,3 +1,12 @@
+
+<div align="center">
+  <img src="https://www.easel.ly/blog/wp-content/uploads/2019/05/text-vs-visuals-which-is-more-effective.png">
+</div>
+
+<br>
+
+###
+
 <h1 align="center">👋<br>Software developer and tech enthusiast.<br><br>Let's connect!<br></h1>
 
 <br>
