@@ -46,12 +46,12 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation">
-
+https://wallpaperbat.com/img/894832-how-christian-bales-american-psycho-performance-was-influenced-by-tom-cruise.jpg
   
 ###
 
 <div align="center">
-  <img height="500" src="https://i.imgflip.com/395ys3.png"  />
+  <img height="500" src="https://wallpaperbat.com/img/894832-how-christian-bales-american-psycho-performance-was-influenced-by-tom-cruise.jpg"  />
 </div>
 
 ###
