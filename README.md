@@ -4,6 +4,10 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=shubhamketkar7.shubhamketkar7"/>
 </div>
 
+###
+
+[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamketkar7)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ###
 
