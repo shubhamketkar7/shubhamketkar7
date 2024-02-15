@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.giphy.com/l2Sq9JVIklU8OwCjK.webp" style="width: 500px; height: auto;">
+<img src="https://i.giphy.com/l2Sq9JVIklU8OwCjK.webp" style="width: 700px; height: auto;">
 </div>
 
 <br>
@@ -77,7 +77,7 @@
 
 <div align="left">
   <a href="https://www.instagram.com/shubhamketkar7/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
   </a>
   <a href="https://in.linkedin.com/in/shubham-ketkar-46b632219">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -87,4 +87,9 @@
   </a>
 </div>
 
+<br>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYml1ZmMzMzlleW4zZGt2dXdwN2p5eXk2bWwxNWl6MTEycHpkZHZscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZsYb0PfZ2ybnggE/giphy.gif">
+
+<br>
 ###
