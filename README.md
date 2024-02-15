@@ -45,12 +45,6 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/shubhamketkar7/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
   <img height="500" src="https://i.imgflip.com/395ys3.png"  />
 </div>
 
