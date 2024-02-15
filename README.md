@@ -50,7 +50,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="file:///C:/Users/shubh_svk28/Downloads/american-psychos-patrick-bateman-nailed-1980s-businessman-style.jpg"  />
+  <img height="500" src="https://file:///C:/Users/shubh_svk28/Downloads/american-psychos-patrick-bateman-nailed-1980s-businessman-style.jpg"  />
 </div>
 
 ###
