@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">👋<br>Software developer and tech enthusiast.<br><br>Let's connect!<br></h1>
+<h1 align="center">👋<br>Software developer and tech enthusiast.<br>Let's connect!<br></h1>
 
 <br>
 
